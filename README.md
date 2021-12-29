@@ -14,7 +14,7 @@ An Order management application with their respective Users. Using spring boot i
 #### Technologies
 - Front-End : 
 
- <img align="left" alt="react" width="50px" src="https://e7.pngegg.com/pngimages/620/322/png-clipart-angularjs-ruby-on-rails-typescript-web-application-icon-hacker-angle-triangle.png" />
+ <img align="left" alt="react" width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" />
 
 
 <br/><br/>
