@@ -12,14 +12,10 @@ An Order management application with their respective Users. Using spring boot i
 
 
 #### Technologies
-- Front-End : 
 
  <img align="left" alt="react" width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" />
-
-
 <br/><br/>
-- Back-End : 
- <img align="left" alt="spring boot" width="50px" src="https://image.pngaaa.com/220/4144220-middle.png" />
+ <img align="left" alt="spring boot" width="50px" src="https://www.digics.si/wp-content/uploads/2020/09/spring_boot_logo.png" />
 
 
 </br>
