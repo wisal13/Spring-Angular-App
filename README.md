@@ -24,6 +24,7 @@ Ensure you have this installed before proceeding further
 - npm 6.14.15,   
 - Angular-cli 10.2.4
 </br>
+
 ### Features of the Project
 * Backend
   * Token Based Security (using Spring security)
